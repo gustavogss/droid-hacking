@@ -1,6 +1,6 @@
 # Droid-hacking :robot:
 
-- É um conjunto e guia de ferramentas hacking kali-linux para usar em dispositivos Android
+- Guia e ferramentas hacking kali-linux para dispositivos Android na implementação de Pentests 
 
 ***A forma como você irá usar essas ferramentas é totalmente sua responsabilidade***
 
@@ -29,8 +29,15 @@
   ```
   pkg update
   ```
+  - Depois precisamos instalar o git para clonar algumas ferramentas hacking do Github, então digite:
+  
+  ```
+  pkg install git
+  ```
   
   ## Preparando o ambiente para o Pentest:
+  
 - Primeiro instale a ferramenta de investigação de Osint a mr.holmes
+- Vá até o repositório: [https://github.com/Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) e siga todos os passos do Readme da instalação para o Termux
 - 
 
