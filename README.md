@@ -39,5 +39,12 @@
   
 - Primeiro instale a ferramenta de investigação de Osint a mr.holmes
 - Vá até o repositório: [https://github.com/Lucksi/Mr.Holmes](https://github.com/Lucksi/Mr.Holmes) e siga todos os passos do Readme da instalação para o Termux
-- 
+- Digite "1" para instalar todas as dependências do projeto 
+- A medida que foram sendo instaladas as dependências ele pergunta se quer instalar algum serviço especifico: Digite 1 para sim e 2 para não
+- Não é recomendável instalar serviços de email e proxy, então escolha a opção 2
+- Para rodar a aplicação, digite:
+
+```
+python MrHolmes.py
+```
 
