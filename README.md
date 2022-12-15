@@ -45,6 +45,6 @@
 - Para rodar a aplicação, digite:
 
 ```
-python MrHolmes.py
+python3 MrHolmes.py
 ```
 
